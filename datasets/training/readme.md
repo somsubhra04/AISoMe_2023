@@ -3,7 +3,7 @@ The file contains 9,921 tweets labelled by human annotators, with the concerns t
 
 There are 3 columns in the file:
  - `ID` of the tweet in a string format, appended with a "t" to make it easier to work with on spreadsheet softwares.
- - The `tweet` text (Note: The tweet column has been dropped while uploading it to this public repository as the content cannot been revealed)
+ - The `tweet` text (Note: The tweet column has been dropped while uploading it to this public repository as the content cannot been revealed. Please contact the organizing team of AISoMe if you wish to take a look at the tweet data. You might've to submit an organizational or individual declaration form to get access to it.)
  - The different `labels` (vaccine concerns) expressed in the tweet, separated by spaces.
 
 List of the 12 different vaccine concerns in the dataset:
