@@ -3,7 +3,7 @@ The file contains 9,921 tweets labelled with the concerns towards vaccines.
 
 There are 3 columns in the file:
  - ID of the tweet in a string format, appended with a "t" to make it easier to work with on spreadsheet softwares.
- - The tweet text (Note: The tweet text column has not been revealed while uploading it to this public repository)
+ - The tweet text (Note: The tweet column has been dropped while uploading it to this public repository as the content cannot been revealed)
  - The different labels (vaccine concerns) expressed in the tweet, separated by spaces.
 
 List of the 12 different vaccine concerns in the dataset:
