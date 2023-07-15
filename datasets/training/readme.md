@@ -1,5 +1,5 @@
 The `train_val.csv` file contains data from the [CAVES](https://arxiv.org/abs/2204.13746) dataset.
-The file contains 9,921 tweets labelled with the concerns towards vaccines.
+The file contains 9,921 tweets labelled by human annotators, with the concerns towards vaccines.
 
 There are 3 columns in the file:
  - ID of the tweet in a string format, appended with a "t" to make it easier to work with on spreadsheet softwares.
