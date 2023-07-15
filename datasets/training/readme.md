@@ -2,7 +2,7 @@ The `train_val.csv` file contains data from the [CAVES](https://arxiv.org/abs/22
 The file contains 9,921 tweets labelled by human annotators, with the concerns towards vaccines.
 
 There are 3 columns in the file:
- - `ID` of the tweet in a string format, appended with a "t" to make it easier to work with on spreadsheet softwares.
+ - `ID` of the tweet in a string format, appended with a 't' to make it easier to work with on spreadsheet softwares.
  - The `tweet` text (Note: We've dropped the tweet column while uploading the file to this public repository as the content cannot been revealed. Please contact the organizing team of AISoMe if you wish to take a look at the tweet data. You might've to submit an organizational or individual declaration form to get access to it.)
  - The different `labels` (vaccine concerns) expressed in the tweet, separated by spaces.
 
