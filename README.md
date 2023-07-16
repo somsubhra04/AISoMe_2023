@@ -11,7 +11,7 @@ If you use any information, please cite our paper using the BibTeX style provide
   author = {De, Somsubhra and Vats, Shaurya},
   pages = {x--y},
   url = {http://ceur-ws.org/},
-  booktitle={CEUR-WS Proceedings, Submission at AISoMe Track of FIRE 2023 Conference, Panjim, India},
+  booktitle={CEUR-WS Proceedings, Accepted at AISoMe Track of FIRE 2023 Conference, Panjim, India},
   year = {2023}
 }
 ```
