@@ -1,6 +1,6 @@
 # AISoMe_2023
 
-This repository contains files corresponding to the paper '', submitted by Team Data Warriors to the FIRE 2023 conference [AISoMe](https://sites.google.com/view/aisome/aisome) Track, which is a part of the CEUR-WS proceedings.
+This repository contains files corresponding to the paper '', submitted by Team Data Warriors to the [AISoMe](https://sites.google.com/view/aisome/aisome) Track, a shared task with the 15th meeting of Forum for Information Retrieval Evaluation (FIRE) 2023 conference.
 
 The pre-print version of the paper can be found at [arXiv]()
 
