@@ -8,13 +8,10 @@ There are 2 columns in the file:
 
 To submit your runs, please prepare a similar CSV file with the ID column, and a column for the predictions. Each of your predictions will be a space-separated list of classes. Thus the file will look like:
 
-"id", "preds"
-
-xxxxxx1t, none
-
-xxxxxx2t, rushed ineffective
-
-xxxxxx2t, side-effect ineffective mandatory
-...
+|id |preds|
+|-----|--------|
+|xxxxxx1t|none       |
+|xxxxxx2t  |rushed ineffective      |
+|xxxxxx2t  |side-effect ineffective mandatory      |
 
 NOTE: Make sure the IDs are exactly the same as in the test.csv file.
